@@ -9,8 +9,13 @@
 </ul>
 
 <input placeholder = "Something todo" />
-<button>Add todo</button>
+<button @onclick = "AddTodo">Add todo</button>
 
 @code {
     private IList<TodoItem> todos = new List<TodoItem>();
+
+    private void AddTodo()
+    {
+        //Adding todo
+    }
 }
