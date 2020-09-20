@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QgK8gctRrNZZe89kimmrSjGWSzMAmWIQobhdlqnmVDSoH+Q5a0SMz4q6xYyhn4tqJ07lkv7vOSghh6SjAvpSzQ==",
+  "dgSpecHash": "/yY67t22smBF9eyoZS6ix4O30ayfTeZCaoQKhlEqnzkuuxYZ6X8BnHOZI5U1nr4+zlS1qZGc8O8hJcN0dj9vVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\TodoList\\TodoList.csproj",
+  "projectFilePath": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\todolist\\TodoList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\TodoList\\TodoList.csproj": {}
+    "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\todolist\\TodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\TodoList\\TodoList.csproj": {
+    "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\todolist\\TodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\TodoList\\TodoList.csproj",
+        "projectUniqueName": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\todolist\\TodoList.csproj",
         "projectName": "TodoList",
-        "projectPath": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\TodoList\\TodoList.csproj",
+        "projectPath": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\todolist\\TodoList.csproj",
         "packagesPath": "C:\\Users\\never\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\TodoList\\obj\\",
+        "outputPath": "C:\\Users\\never\\Desktop\\Blazor_Todo\\Blazor_Todo\\todolist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\never\\AppData\\Roaming\\NuGet\\NuGet.Config"
